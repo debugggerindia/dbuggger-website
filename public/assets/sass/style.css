@@ -3320,7 +3320,7 @@ label {
   display: inline-block;
 }
 .cs_site_branding img {
-  max-height: 45px;
+  max-height: 70px;
 }
 
 @media screen and (min-width: 1200px) {

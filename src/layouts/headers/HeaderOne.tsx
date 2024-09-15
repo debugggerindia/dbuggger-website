@@ -296,7 +296,7 @@ const HeaderOne = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-4 offset-1">
+						{/* <div className="col-4 offset-1">
 							<div className="cs_box_two">
 								<div>
 									<p>
@@ -340,7 +340,7 @@ const HeaderOne = () => {
 									</h2>
 								</div>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>

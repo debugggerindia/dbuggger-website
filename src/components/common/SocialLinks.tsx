@@ -20,7 +20,7 @@ const hero_link_home_three: HDataType[] = [
   },
   {
     id: 3,
-    link: "https://www.instagram.com",
+    link: "https://www.instagram.com/dbuggger",
     title: "Instagram",
   },
   {
